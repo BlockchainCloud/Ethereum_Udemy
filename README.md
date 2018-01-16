@@ -7,3 +7,4 @@
 * https://www.rinkeby.io/#stats
 * https://gist.github.com/anonymous/22c13cfbb2a0d3b2942b59e931c6be1d
 * [EtherScan](https://etherscan.io/)
+* [Brian Holt](https://eventil.com/users/btholt)
