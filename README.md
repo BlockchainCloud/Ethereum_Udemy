@@ -11,3 +11,4 @@
 * [Brian Holt](https://eventil.com/users/btholt)
 * https://github.com/nebulasio
 * http://web3py.readthedocs.io/en/stable/
+* https://github.com/ethereum/web3.py
