@@ -10,3 +10,4 @@
 * [EtherScan](https://etherscan.io/)
 * [Brian Holt](https://eventil.com/users/btholt)
 * https://github.com/nebulasio
+* http://web3py.readthedocs.io/en/stable/
