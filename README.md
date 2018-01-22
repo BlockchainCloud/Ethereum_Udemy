@@ -14,7 +14,6 @@
 * https://github.com/ethereum/web3.py
 * [Ethereum on Wikipedia](https://en.wikipedia.org/wiki/Ethereum#Programming_languages)
 
-
 ##
 
 ```solidity
