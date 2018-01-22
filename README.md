@@ -25,4 +25,9 @@ function getMessage() public view returns(string) {
 
 * public - anyone can call this function
 * private - only this contract can call this function
-* 
+* view - this function returns data and does not modify the contract's data
+* constant - this function returns data and does not modify the contract data
+* pure - function will not modify or even read the contract's data.
+* payable - when someone call this function they might send ether along
+
+
