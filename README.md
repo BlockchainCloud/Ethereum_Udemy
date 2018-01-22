@@ -13,3 +13,14 @@
 * http://web3py.readthedocs.io/en/stable/
 * https://github.com/ethereum/web3.py
 * [Ethereum on Wikipedia](https://en.wikipedia.org/wiki/Ethereum#Programming_languages)
+
+
+##
+
+```solidity
+function getMessage() public view returns(string) {
+  return message;
+}
+```
+
+public - 
