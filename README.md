@@ -30,4 +30,4 @@ function getMessage() public view returns(string) {
 * pure - function will not modify or even read the contract's data.
 * payable - when someone call this function they might send ether along
 
-
+(view and constant mean the same thing)
