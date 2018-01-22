@@ -23,4 +23,6 @@ function getMessage() public view returns(string) {
 }
 ```
 
-public - 
+* public - anyone can call this function
+* private - only this contract can call this function
+* 
