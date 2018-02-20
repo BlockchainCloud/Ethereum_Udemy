@@ -13,6 +13,10 @@
 * http://web3py.readthedocs.io/en/stable/
 * https://github.com/ethereum/web3.py
 * [Ethereum on Wikipedia](https://en.wikipedia.org/wiki/Ethereum#Programming_languages)
+* https://ethereum.org/token
+* https://solidity.readthedocs.io/en/develop/
+* https://developer.ibm.com/indexconf/workshops/
+*     
 
 ##
 
